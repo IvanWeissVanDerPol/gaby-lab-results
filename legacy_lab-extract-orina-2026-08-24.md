@@ -1,6 +1,10 @@
-# Lab Result 2 Aug24 2026
+# Legacy: Extract markdown del análisis de orina del 24/08/2026
 
-Source: resultado_gonzalez_pane_gabriella_maria_4436979_24082026203259_lc.pdf
+> ⚠️ **Este archivo es un extracto markdown crudo generado por el owner al subir el PDF original.** La versión canónica y estructurada vive en [`assessments/2026-08-24-orina-completa/`](assessments/2026-08-24-orina-completa/).
+>
+> Mantenido por valor histórico (muestra el formato original que generaba el sistema antes de la migración al esquema estructurado).
+>
+> Source: `resultado_gonzalez_pane_gabriella_maria_4436979_24082026203259_lc.pdf` (también disponible en `assessments/2026-08-24-orina-completa/raw/`)
 
 ANALISIS CLINICOS, BACTERIOLOGICOS E INMUNOLOGICOS
 Avda. Artigas 1500 c/ Concepción Leyes de Chavez. Télef.: 217- 1000

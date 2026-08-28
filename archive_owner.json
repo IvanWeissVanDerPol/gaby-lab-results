@@ -1,0 +1,19 @@
+{
+  "patient": {
+    "full_name": "Gabriella Maria Gonzalez Pane",
+    "ci": "1375421",
+    "dob": "1981-05-26",
+    "age_at_first_study": 45,
+    "sex": "F",
+    "preferred_language": "es",
+    "country": "PY"
+  },
+  "repository_owner": "IvanWeissVanDerPol",
+  "relationship_to_patient": "familiar",
+  "consent_level": "public",
+  "consent_notes": "Repositorio público por decisión del owner del repo. La paciente fue notificada. Este archivo documenta la identidad para que cualquier agente que trabaje con los datos pueda verificar que está procesando el paciente correcto.",
+  "ci_field_handling": "El CI (cédula) es el campo más identificante. Se mantiene aquí como single source of truth. Si en algún momento se exportan FHIR Bundles fuera del repo, seudonimizar el CI a urn:uuid y guardar el crosswalk fuera del repo público.",
+  "first_study_date": "2026-08-17",
+  "last_verified_date": "2026-08-28",
+  "verified_by": "Hermes Agent (autonomous audit via pypdf text extraction + cross-reference with markdown extracts)"
+}

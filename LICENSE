@@ -1,0 +1,9 @@
+# LICENSE
+
+This repository contains personal medical information that is public by explicit owner choice. The repository contents are intended for personal record-keeping and medical consultation preparation.
+
+**No warranty. No medical advice. No redistribution of patient data without owner consent.**
+
+The structural code, schemas, and documentation patterns in this repository are inspired by open-source projects (see README "Repos de referencia") and may be reused freely under their original licenses.
+
+The patient data itself is NOT covered by any open-source license. Do not reuse, redistribute, or republish the patient's personal medical information.

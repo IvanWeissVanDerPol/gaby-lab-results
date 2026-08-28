@@ -1,0 +1,40 @@
+# Temporary work directories
+.phr_tmp/
+*.tmp
+*.swp
+*~
+
+# SQLite database files (large + binary)
+structured_database/*.db
+structured_database/*.db-journal
+structured_database/*.db-wal
+structured_database/*.db-shm
+structured_database/*.sqlite
+
+# Large derivative files (regenerable from source)
+**/derivatives/
+
+# Re-identification crosswalks (sensitive)
+**/crosswalk*.csv
+**/crosswalk*.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Build artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node (for dashboard/)
+package-lock.json
+node_modules/
+
+# Personal notes that shouldn't be public (yet)
+private/
+NOTES_PERSONALES.md

@@ -1,0 +1,50 @@
+date,test_name,value,unit,reference_low,reference_high,status,loinc,notes
+2026-08-26,Glóbulos Rojos,4.03,M/mm3,3.80,5.80,Normal,789-8,
+2026-08-26,Glóbulos Blancos,4.6,K/mm3,4.50,11.50,Normal,6690-2,
+2026-08-26,Hemoglobina,12.6,g/dL,12.0,16.0,Normal,718-7,Límite inferior
+2026-08-26,Hematocrito,37,%,37,47,Low,4544-3,En el piso
+2026-08-26,VCM,92,fL,83,97,Normal,787-2,
+2026-08-26,HCM,31,pg,27,31,Normal,785-6,
+2026-08-26,CHCM,34,g/dL,32,36,Normal,786-4,
+2026-08-26,RDW-CV,12.3,%,10.0,14.0,Normal,788-0,
+2026-08-26,Neutrófilos Segmentados,55,%,40,70,Normal,770-8,
+2026-08-26,Neutrófilos Segmentados (abs),2.53,K/mm3,1.50,7.50,Normal,751-8,
+2026-08-26,Linfocitos,43,%,20,40,Normal,731-0,
+2026-08-26,Linfocitos (abs),1.978,K/mm3,1.00,4.00,Normal,850-8,
+2026-08-26,Monocitos,1,%,2,8,Low,742-7,
+2026-08-26,Monocitos (abs),0.046,K/mm3,0.20,0.80,Low,743-5,
+2026-08-26,Eosinófilos,1,%,1,4,Normal,713-8,
+2026-08-26,Eosinófilos (abs),0.046,K/mm3,0.05,0.50,Normal,711-2,
+2026-08-26,Plaquetas,575,K/mm3,150,450,High,777-3,Sobre el techo del rango
+2026-08-26,MPV,9.6,fL,7.0,13.0,Normal,32623-1,
+2026-08-26,Eritrosedimentación 1ra hora,5,mm/h,0,20,Normal,4537-7,Sin inflamación sistémica
+2026-08-26,Sodio,135,mEq/L,135,153,Low,2951-2,Límite inferior
+2026-08-26,Potasio,3.5,mEq/L,3.5,5.3,Low,2823-3,Límite inferior
+2026-08-26,Cloruros,99,mEq/L,98,112,Normal,2075-0,
+2026-08-26,Calcio,10.2,mg/dL,8.4,10.2,Normal,2000-8,Límite superior
+2026-08-26,Fósforo,3.6,mg/dL,2.5,4.5,Normal,2777-1,
+2026-08-26,Magnesio,1.9,mg/dL,1.6,2.6,Normal,19123-9,
+2026-08-26,Glucosa,88,mg/dL,65,99,Normal,2345-7,ADA 2023: normal
+2026-08-26,Urea,23,mg/dL,17,49,Normal,3091-6,
+2026-08-26,Creatinina,0.95,mg/dL,0.50,1.00,Normal,2160-0,Alto-normal
+2026-08-26,Ácido Úrico,4,mg/dL,2.5,6.0,Normal,3084-1,
+2026-08-26,Fosfatasa Alcalina,42,U/L,40,150,Normal,6768-6,Límite inferior
+2026-08-26,Bilirrubina Total,0.70,mg/dL,0.20,1.20,Normal,1975-2,
+2026-08-26,Bilirrubina Directa,0.20,mg/dL,0.00,0.30,Normal,1971-1,
+2026-08-26,Bilirrubina Indirecta,0.50,mg/dL,0.00,0.90,Normal,1971-1,
+2026-08-26,ALT/GPT,27,U/L,0,35,Normal,1742-6,
+2026-08-26,AST/GOT,30,U/L,0,40,Normal,1920-8,
+2026-08-26,Gamma GT,52,U/L,0,150,Normal,2324-2,
+2026-08-26,Colesterol Total,246,mg/dL,0,200,High,2093-3,AHA: ≥240 = Alto
+2026-08-26,Triglicéridos,77,mg/dL,0,150,Normal,2571-8,
+2026-08-26,Colesterol HDL,66,mg/dL,50,,Optimal,2086-9,Muy bueno (protector)
+2026-08-26,Colesterol LDL (calculado),165,mg/dL,0,100,High,13457-7,Calculado por Friedewald
+2026-08-26,Colesterol VLDL (calculado),15,mg/dL,0,30,Normal,13458-5,
+2026-08-26,Colesterol No-HDL,180,mg/dL,0,130,High,43396-1,LDL + VLDL
+2026-08-26,Hemoglobina Glicada (HbA1c),5.30,%,0,5.60,Normal,4548-4,NGSP certificado
+2026-08-26,TSH Ultrasensible,1.750,µUI/mL,0.270,4.200,Normal,3016-3,Rango nuevo desde 23/07/2026
+2026-08-26,T4 Libre,1.21,ng/dL,0.93,1.70,Normal,3024-7,
+2026-08-26,Insulina Basal,13.5,mU/L,2.6,24.9,Normal,1032-1,Alto-normal; HOMA-IR = 2.94
+2026-08-26,VDRL,No reactivo,,,,NA,5292-8,Tamizaje (no diagnóstico)
+2026-08-26,VIH Ag/Ab 4ta Generación,No reactivo,,,,NA,56888-1,Tamizaje (no diagnóstico)
+2026-08-26,Vitamina D (25-OH),29.35,ng/mL,30,,Borderline,62292-8,Insuficiente; corte ≥30 = deseable

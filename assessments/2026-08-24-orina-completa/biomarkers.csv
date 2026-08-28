@@ -1,0 +1,15 @@
+date,test_name,value,unit,reference_low,reference_high,status,loinc,notes
+2026-08-24,Densidad (orina),1.020,,1.005,1.030,Normal,5811-5,
+2026-08-24,pH (orina),5.5,,4.5,8.0,Normal,5803-2,
+2026-08-24,Proteínas (orina),Negativo,,,,NA,20454-5,
+2026-08-24,Glucosa (orina),Negativo,,,,NA,2349-9,
+2026-08-24,Cuerpos cetónicos (orina),Negativo,,,,NA,2514-0,
+2026-08-24,Bilirrubina (orina),Negativo,,,,NA,5802-4,
+2026-08-24,Urobilina (orina),Negativo,,,,NA,1749-1,
+2026-08-24,Esterasa leucocitaria (orina),Negativo,,,,NA,5799-2,
+2026-08-24,Nitritos (orina),Negativo,,,,NA,32710-6,
+2026-08-24,Sangre (orina),Negativo,,,,NA,5794-3,
+2026-08-24,Leucocitos (orina),4,cel/uL,0,17,Normal,5821-4,
+2026-08-24,Hematíes (orina),1,cel/uL,0,17,Normal,5808-1,
+2026-08-24,Células epiteliales (orina),19,cel/uL,0,5,High,5789-3,Sugiere toma no clean-catch
+2026-08-24,Moco (orina),10,p/uL,0,224,Normal,824-1,

@@ -1,0 +1,64 @@
+date,test_name,value,unit,reference_low,reference_high,lab,status,notes,visit_id,loinc,panel
+2026-08-24,Densidad (orina),1.020,,1.005,1.030,Centro Médico LA COSTA,Normal,,orina_2026-08-24,5811-5,urinalysis
+2026-08-24,pH (orina),5.5,,4.5,8.0,Centro Médico LA COSTA,Normal,,orina_2026-08-24,5803-2,urinalysis
+2026-08-24,Proteínas (orina),Negativo,,,,Centro Médico LA COSTA,Normal,,orina_2026-08-24,20454-5,urinalysis
+2026-08-24,Glucosa (orina),Negativo,,,,Centro Médico LA COSTA,Normal,,orina_2026-08-24,2349-9,urinalysis
+2026-08-24,Cuerpos cetónicos (orina),Negativo,,,,Centro Médico LA COSTA,Normal,,orina_2026-08-24,2514-0,urinalysis
+2026-08-24,Bilirrubina (orina),Negativo,,,,Centro Médico LA COSTA,Normal,,orina_2026-08-24,5802-4,urinalysis
+2026-08-24,Urobilina (orina),Negativo,,,,Centro Médico LA COSTA,Normal,,orina_2026-08-24,1749-1,urinalysis
+2026-08-24,Esterasa leucocitaria (orina),Negativo,,,,Centro Médico LA COSTA,Normal,,orina_2026-08-24,5799-2,urinalysis
+2026-08-24,Nitritos (orina),Negativo,,,,Centro Médico LA COSTA,Normal,,orina_2026-08-24,32710-6,urinalysis
+2026-08-24,Sangre (orina),Negativo,,,,Centro Médico LA COSTA,Normal,,orina_2026-08-24,5794-3,urinalysis
+2026-08-24,Leucocitos (orina),4,cel/uL,0,17,Centro Médico LA COSTA,Normal,,orina_2026-08-24,5821-4,urinalysis
+2026-08-24,Hematíes (orina),1,cel/uL,0,17,Centro Médico LA COSTA,Normal,,orina_2026-08-24,5808-1,urinalysis
+2026-08-24,Células epiteliales (orina),19,cel/uL,0,5,Centro Médico LA COSTA,High,,orina_2026-08-24,5789-3,urinalysis
+2026-08-24,Moco (orina),10,p/uL,0,224,Centro Médico LA COSTA,Normal,,orina_2026-08-24,824-1,urinalysis
+2026-08-26,Glóbulos Rojos,4.03,M/mm3,3.80,5.80,Centro Médico LA COSTA,Normal,,panel_2026-08-26,789-8,hematology
+2026-08-26,Glóbulos Blancos,4.6,K/mm3,4.50,11.50,Centro Médico LA COSTA,Normal,,panel_2026-08-26,6690-2,hematology
+2026-08-26,Hemoglobina,12.6,g/dL,12.0,16.0,Centro Médico LA COSTA,Normal,,panel_2026-08-26,718-7,hematology
+2026-08-26,Hematocrito,37,%,37,47,Centro Médico LA COSTA,Low,,panel_2026-08-26,4544-3,hematology
+2026-08-26,VCM,92,fL,83,97,Centro Médico LA COSTA,Normal,,panel_2026-08-26,787-2,hematology
+2026-08-26,HCM,31,pg,27,31,Centro Médico LA COSTA,Normal,,panel_2026-08-26,785-6,hematology
+2026-08-26,CHCM,34,g/dL,32,36,Centro Médico LA COSTA,Normal,,panel_2026-08-26,786-4,hematology
+2026-08-26,RDW-CV,12.3,%,10.0,14.0,Centro Médico LA COSTA,Normal,,panel_2026-08-26,788-0,hematology
+2026-08-26,Neutrófilos Segmentados,55,%,40,70,Centro Médico LA COSTA,Normal,,panel_2026-08-26,770-8,hematology
+2026-08-26,Neutrófilos Segmentados (abs),2.53,K/mm3,1.50,7.50,Centro Médico LA COSTA,Normal,,panel_2026-08-26,751-8,hematology
+2026-08-26,Linfocitos,43,%,20,40,Centro Médico LA COSTA,Normal,,panel_2026-08-26,731-0,hematology
+2026-08-26,Linfocitos (abs),1.978,K/mm3,1.00,4.00,Centro Médico LA COSTA,Normal,,panel_2026-08-26,850-8,hematology
+2026-08-26,Monocitos,1,%,2,8,Centro Médico LA COSTA,Low,,panel_2026-08-26,742-7,hematology
+2026-08-26,Monocitos (abs),0.046,K/mm3,0.20,0.80,Centro Médico LA COSTA,Low,,panel_2026-08-26,743-5,hematology
+2026-08-26,Eosinófilos,1,%,1,4,Centro Médico LA COSTA,Normal,,panel_2026-08-26,713-8,hematology
+2026-08-26,Eosinófilos (abs),0.046,K/mm3,0.05,0.50,Centro Médico LA COSTA,Normal,,panel_2026-08-26,711-2,hematology
+2026-08-26,Plaquetas,575,K/mm3,150,450,Centro Médico LA COSTA,High,Sobre el techo del rango; a confirmar con Dr. Sachero Feliú,panel_2026-08-26,777-3,hematology
+2026-08-26,MPV,9.6,fL,7.0,13.0,Centro Médico LA COSTA,Normal,,panel_2026-08-26,32623-1,hematology
+2026-08-26,Eritrosedimentación 1ra hora,5,mm/h,0,20,Centro Médico LA COSTA,Normal,,panel_2026-08-26,4537-7,hematology
+2026-08-26,Sodio,135,mEq/L,135,153,Centro Médico LA COSTA,Low,,panel_2026-08-26,2951-2,chemistry
+2026-08-26,Potasio,3.5,mEq/L,3.5,5.3,Centro Médico LA COSTA,Low,,panel_2026-08-26,2823-3,chemistry
+2026-08-26,Cloruros,99,mEq/L,98,112,Centro Médico LA COSTA,Normal,,panel_2026-08-26,2075-0,chemistry
+2026-08-26,Calcio,10.2,mg/dL,8.4,10.2,Centro Médico LA COSTA,Normal,,panel_2026-08-26,2000-8,chemistry
+2026-08-26,Fósforo,3.6,mg/dL,2.5,4.5,Centro Médico LA COSTA,Normal,,panel_2026-08-26,2777-1,chemistry
+2026-08-26,Magnesio,1.9,mg/dL,1.6,2.6,Centro Médico LA COSTA,Normal,,panel_2026-08-26,19123-9,chemistry
+2026-08-26,Glucosa,88,mg/dL,65,99,Centro Médico LA COSTA,Normal,ADA 2023: rango normal,panel_2026-08-26,2345-7,chemistry
+2026-08-26,Urea,23,mg/dL,17,49,Centro Médico LA COSTA,Normal,,panel_2026-08-26,3091-6,chemistry
+2026-08-26,Creatinina,0.95,mg/dL,0.50,1.00,Centro Médico LA COSTA,Normal,,panel_2026-08-26,2160-0,chemistry
+2026-08-26,Ácido Úrico,4,mg/dL,2.5,6.0,Centro Médico LA COSTA,Normal,,panel_2026-08-26,3084-1,chemistry
+2026-08-26,Fosfatasa Alcalina,42,U/L,40,150,Centro Médico LA COSTA,Normal,,panel_2026-08-26,6768-6,chemistry
+2026-08-26,Bilirrubina Total,0.70,mg/dL,0.20,1.20,Centro Médico LA COSTA,Normal,,panel_2026-08-26,1975-2,chemistry
+2026-08-26,Bilirrubina Directa,0.20,mg/dL,0.00,0.30,Centro Médico LA COSTA,Normal,,panel_2026-08-26,1971-1,chemistry
+2026-08-26,Bilirrubina Indirecta,0.50,mg/dL,0.00,0.90,Centro Médico LA COSTA,Normal,,panel_2026-08-26,1971-1,chemistry
+2026-08-26,ALT/GPT,27,U/L,0,35,Centro Médico LA COSTA,Normal,,panel_2026-08-26,1742-6,chemistry
+2026-08-26,AST/GOT,30,U/L,0,40,Centro Médico LA COSTA,Normal,,panel_2026-08-26,1920-8,chemistry
+2026-08-26,Gamma GT,52,U/L,0,150,Centro Médico LA COSTA,Normal,,panel_2026-08-26,2324-2,chemistry
+2026-08-26,Colesterol Total,246,mg/dL,0,200,Centro Médico LA COSTA,High,Límite AHA: ≥240 = Alto,panel_2026-08-26,2093-3,lipids
+2026-08-26,Triglicéridos,77,mg/dL,0,150,Centro Médico LA COSTA,Normal,,panel_2026-08-26,2571-8,lipids
+2026-08-26,Colesterol HDL,66,mg/dL,50,,Centro Médico LA COSTA,Optimal,Mismo HDL protege contra LDL alto,panel_2026-08-26,2086-9,lipids
+2026-08-26,Colesterol LDL (calculado),165,mg/dL,0,100,Centro Médico LA COSTA,High,Calculado por Friedewald; rango óptimo <100,panel_2026-08-26,13457-7,lipids
+2026-08-26,Colesterol VLDL (calculado),15,mg/dL,0,30,Centro Médico LA COSTA,Normal,,panel_2026-08-26,13458-5,lipids
+2026-08-26,Colesterol No-HDL,180,mg/dL,0,130,Centro Médico LA COSTA,High,LDL + VLDL; mejor predictor de riesgo,panel_2026-08-26,43396-1,lipids
+2026-08-26,Hemoglobina Glicada (HbA1c),5.30,%,0,5.60,Centro Médico LA COSTA,Normal,NGSP certificado; ADA: ≤5.6 normal,panel_2026-08-26,4548-4,chemistry
+2026-08-26,TSH Ultrasensible,1.750,µUI/mL,0.270,4.200,Centro Médico LA COSTA,Normal,Rango nuevo desde 23/07/2026,panel_2026-08-26,3016-3,thyroid
+2026-08-26,T4 Libre,1.21,ng/dL,0.93,1.70,Centro Médico LA COSTA,Normal,Rango nuevo desde 23/07/2026,panel_2026-08-26,3024-7,thyroid
+2026-08-26,Insulina Basal,13.5,mU/L,2.6,24.9,Centro Médico LA COSTA,Normal,Alto-normal; HOMA-IR = 2.94 (a confirmar con Dr. Sachero),panel_2026-08-26,1032-1,chemistry
+2026-08-26,VDRL,No reactivo,,,,Centro Médico LA COSTA,Normal,Tamizaje (no diagnóstico),panel_2026-08-26,5292-8,immunology
+2026-08-26,VIH Ag/Ab 4ta Generación,No reactivo,,,,Centro Médico LA COSTA,Normal,Tamizaje (no diagnóstico),panel_2026-08-26,56888-1,immunology
+2026-08-26,Vitamina D (25-OH),29.35,ng/mL,30,,Centro Médico LA COSTA,Borderline,Justo bajo 30 (deseable). 20-30 = insuficiente,panel_2026-08-26,62292-8,immunology
