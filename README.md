@@ -8,6 +8,7 @@ Registro longitudinal estructurado de los estudios médicos de **Gabriella Maria
 
 ## 📚 Tabla de contenidos
 
+- [Main files — links directos](#-main-files--links-directos)
 - [¿Qué hay aquí?](#qué-hay-aquí)
 - [Estado de los estudios](#estado-de-los-estudios)
 - [Cómo usar este repo](#cómo-usar-este-repo)
@@ -17,6 +18,73 @@ Registro longitudinal estructurado de los estudios médicos de **Gabriella Maria
 - [Privacidad y exposición pública](#privacidad-y-exposición-pública)
 - [Cómo contribuir / mantener](#cómo-contribuir--mantener)
 - [Referencias externas y fuentes](#referencias-externas-y-fuentes)
+
+---
+
+## 🔗 Main files — links directos
+
+Todos los archivos importantes del repo, agrupados por uso. Los links son a GitHub (`github.com/IvanWeissVanDerPol/gaby-lab-results/...`) — funcionan tanto en local como en la web.
+
+### 📄 Resúmenes por estudio (lo primero a abrir)
+
+| Estudio | Resumen | Datos CSV |
+|---|---|---|
+| **TC abdomen+pelvis sin contraste** (17/08/26) | [summary.md](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/assessments/2026-08-17-ct-abdomen-pelvis-sin-contraste/summary.md) | — |
+| **TC abdomen+pelvis con contraste** (18/08/26) | [summary.md](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/assessments/2026-08-18-ct-abdomen-pelvis-con-contraste/summary.md) | — |
+| **Orina completa (rutina)** (24/08/26) | [summary.md](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/assessments/2026-08-24-orina-completa/summary.md) | [biomarkers.csv](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/assessments/2026-08-24-orina-completa/biomarkers.csv) |
+| **Panel general de sangre** (26/08/26) | [summary.md](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/assessments/2026-08-26-perfil-completo-sangre/summary.md) | [biomarkers.csv](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/assessments/2026-08-26-perfil-completo-sangre/biomarkers.csv) |
+
+### 🩺 Material para consulta médica (doctor/)
+
+| Archivo | Para qué sirve |
+|---|---|
+| [**one-pager-imprimir.md**](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/doctor/one-pager-imprimir.md) | Una página con todo. **Imprimir y llevar al médico.** |
+| [**preguntas-para-Dr-Sachero.md**](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/doctor/preguntas-para-Dr-Sachero.md) | 8 preguntas priorizadas para la consulta con el clínico (panel de sangre) |
+| [**resumen-para-Dr-Novais.md**](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/doctor/resumen-para-Dr-Novais.md) | Material específico para discutir las tomografías con el radiólogo |
+| [**timeline-visual.md**](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/doctor/timeline-visual.md) | Línea de tiempo ASCII de los 4 estudios |
+| [README.md](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/doctor/README.md) | Índice del directorio |
+
+### 📊 Datos estructurados (CSV + LOINC)
+
+| Archivo | Qué contiene |
+|---|---|
+| [**biomarkers/blood-work.csv**](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/biomarkers/blood-work.csv) | **El dataset maestro.** 62 filas long-format con TODOS los tests de sangre y orina, cada uno con su LOINC, UCUM, status, panel, y visit_id. |
+| [**biomarkers/imaging.csv**](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/biomarkers/imaging.csv) | Las 2 tomografías estructuradas (fecha, modalidad, contraste, hallazgos, path al PDF) |
+| [**loinc/README.md**](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/loinc/README.md) | Mapping LOINC + UCUM para todos los tests que aparecen en los estudios |
+
+### 📚 Referencias educativas (qué significa cada resultado)
+
+| Archivo | Qué contiene |
+|---|---|
+| [**references/biomarkers-reference.md**](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/references/biomarkers-reference.md) | Guía en español de cada biomarcador: qué mide, rango LA COSTA, valor de Gabriella, qué significa bajo/alto. Con cross-reference a guías clínicas (ADA, AHA, ATA, KDIGO). |
+| [**references/ct-findings-glossary.md**](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/references/ct-findings-glossary.md) | Glosario de los términos radiológicos de las tomografías (quiste hemorrágico, Bosniak, islotes óseos, Hounsfield, etc.) |
+
+### 📑 PDFs originales
+
+Los 4 PDFs sin modificar, organizados por SHA-1 + admisión + fecha:
+
+| Estudio | Link al PDF | Hash SHA-1 |
+|---|---|---|
+| TC abdomen+pelvis sin contraste (17/08/26) | [606c25f8...pdf](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/original_files/606c25f849c4de79_8702431_ct_2026-08-17.pdf) | `606c25f849c4de79` |
+| TC abdomen+pelvis con contraste (18/08/26) | [fe3f7f01...pdf](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/original_files/fe3f7f011060862f_8708526_ct_2026-08-18.pdf) | `fe3f7f011060862f` |
+| Análisis de orina (24/08/26) | [08fb1982...pdf](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/original_files/08fb19821c5b70be_4436979_orina_2026-08-24.pdf) | `08fb19821c5b70be` |
+| Panel general de sangre (26/08/26) | [947a8817...pdf](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/original_files/947a8817b7cf281e_4437614_panel_2026-08-26.pdf) | `947a8817b7cf281e` |
+
+### 🛠 Documentación técnica (para agentes / contributors)
+
+| Archivo | Para qué sirve |
+|---|---|
+| [**CLAUDE.md**](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/CLAUDE.md) | Instrucciones para Claude / Hermes / agentes que abran este repo |
+| [**docs/DATA-FORMATS.md**](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/docs/DATA-FORMATS.md) | Esquema canónico de todos los CSV / JSON / naming conventions |
+| [**archive_owner.json**](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/archive_owner.json) | Identidad del paciente — single source of truth |
+| [**original_files/README.md**](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/original_files/README.md) | Por qué los PDFs usan SHA-1 en el nombre, y tabla de hashes |
+| [LICENSE](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/LICENSE) | Nota sobre datos del paciente no reutilizables |
+
+### 🗄 Legacy (mantenido por valor histórico)
+
+| Archivo | Notas |
+|---|---|
+| [legacy_lab-extract-orina-2026-08-24.md](https://github.com/IvanWeissVanDerPol/gaby-lab-results/blob/hermes/improvements/legacy_lab-extract-orina-2026-08-24.md) | Extract markdown crudo original de la orina, antes de la migración al esquema estructurado |
 
 ---
 
