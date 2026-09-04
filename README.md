@@ -100,6 +100,7 @@ Los 4 PDFs sin modificar, organizados por SHA-1 + admisión + fecha:
 | **18/08/26** | TC abdomen+pelvis con contraste | [summary](assessments/2026-08-18-ct-abdomen-pelvis-con-contraste/summary.md) |
 | **24/08/26** | Orina completa (rutina) | [summary](assessments/2026-08-24-orina-completa/summary.md) |
 | **26/08/26** | Panel general de sangre | [summary](assessments/2026-08-26-perfil-completo-sangre/summary.md) |
+| **03/09/26** | 🆕 Ecografía vías urinarias + riñón + vejiga | [summary](assessments/2026-09-03-ecografia-vias-urinarias/summary.md) |
 
 ---
 
