@@ -12,12 +12,13 @@
 | CI | 1375421 |
 | Fecha de nacimiento | 26/05/1981 |
 | Edad | 45 años |
-| Sexo | Femenino
-| Laboratorio | Centro Médico LA COSTA |
+| Sexo | Femenino |
+| Laboratorio principal | Centro Médico LA COSTA |
+| Laboratorio adicional | Centro Médico Santa Julia |
 
 ---
 
-## Estudios realizados (agosto 2026)
+## Estudios realizados (agosto — septiembre 2026)
 
 | Fecha | Estudio | Tipo | Resultado clave |
 |---|---|---|---|
@@ -25,6 +26,7 @@
 | 18/08/26 | TC abdomen+pelvis (con contraste) | Imagen | Quiste hemorrágico 30mm riñón izq + quiste pancreático 6mm + 2 islotes óseos pélvicos |
 | 24/08/26 | Análisis de orina (rutina) | Laboratorio | Sin infección activa |
 | 26/08/26 | Panel general de sangre | Laboratorio | Ver abajo |
+| **03/09/26** | **Ecografía vías urinarias + riñón + vejiga** | Imagen | **Quiste renal izq 32mm (Bosniak IIF probable) + residuo post-miccional 22cc** |
 
 ---
 
@@ -42,7 +44,7 @@
 | Monocitos | 1 % / 0.046 K/mm3 | 2–8 / 0.20–0.80 | Bajo (sin significado aislado) |
 | Vitamina D (25-OH) | **29.35 ng/mL** | ≥30 deseable | Insuficiente (justo bajo el corte) |
 
-## Valores borderline /值得关注 (watch)
+## Valores borderline / watch
 
 | Test | Valor | Rango | Observación |
 |---|---|---|---|
@@ -62,57 +64,125 @@
 
 ---
 
-## Hallazgos de imagen (TC 18/08/2026 con contraste)
+## Hallazgos de imagen
 
+### TC abdomen+pelvis 18/08/2026 (con contraste)
 1. **Riñón izquierdo, polo inferior**: formación nodular 30 mm espontáneamente hiperdensa, **sin realce tras contraste** → **compatible con quiste hemorrágico (Bosniak II probable)**
 2. **Páncreas, cuerpo**: formación quística **6 mm** → muy bajo riesgo por tamaño
 3. **Hueso pélvico (ventana ósea)**: islote condensante sínfisis pubiana derecha + imagen similar sobre acetábulo derecho → enostosis / variante benigna
+- **No se vio**: metástasis, líquido libre, adenopatías, litiasis, obstrucción urinaria
 
-**Lo que NO se vio**: metástasis, líquido libre, adenopatías, litiasis, obstrucción urinaria.
-
----
-
-## Estudios pendientes sugeridos (a confirmar con médico)
-
-- [ ] Repetir hemograma en 4–6 semanas (verificar que plaquetas bajen)
-- [ ] Ferritina sérica (causa común de trombocitosis)
-- [ ] Perfil de hierro si hemoglobina sigue en el límite
-- [ ] LDL directo (en vez del calculado) para confirmar LDL real
-- [ ] eGFR calculado con creatinina
-- [ ] PTH si se confirma suplementación de vitamina D
-- [ ] Repetición de TC abdomen+pelvis / MRI renal en 3–6 meses (clasificación Bosniak)
-- [ ] Urocultivo (no se hizo en estudio del 24/08; la razón del primer CT fue ITU)
+### 🆕 Ecografía vías urinarias 03/09/2026 (Santa Julia)
+- **Riñón derecho**: 106×40×36 mm (vol 78 mL), **diferenciación cortico-medular presente** ✅
+- **Riñón izquierdo**: 94×37×38 mm (vol 65 mL), **diferenciación cortico-medular presente** ✅
+- **Polo inferior riñón izquierdo**: formación quística **32 mm** con área ecogénica adentro, **SIN señal vascular al Doppler** → **Quiste complejo (Bosniak IIF probable, reclasificado)**
+- **Vejiga**: escasa repleción (~50 cc pre-miccional), **residuo post-miccional ~22 cc** (vaciamiento ~56%)
+- **Conclusión médico**: "1) Quiste complejo izquierdo. 2) Vejiga de escasa repleción e importante residuo post-miccional relativo"
 
 ---
 
-## Medicamentos y suplementos actuales
+## 🚨 Situación clínica actual (sept 2026)
 
-_(completar antes de la consulta)_
+### Síntomas urinarios persistentes
+- Polaquiuria diurna (8–10 veces)
+- Disuria **ACTIVA** ahora mismo
+- Chorro más débil
+- Vaciamiento incompleto (confirmado por eco)
+- ITU agosto complicada: **resistente a ciprofloxacina → resolvió con ertapenem**
 
-- _______________________________________________
-- _______________________________________________
-- _______________________________________________
-- _______________________________________________
+### Implicancia del cuadro
+- El cuadro **no encaja solo como vejiga hiperactiva** (ya está con solifenacina y persiste con disuria)
+- Posibles: cistitis intersticial, estenosis uretral, gérmenes atípicos (Ureaplasma/Mycoplasma), compresión extrínseca
+- **Sugerencia**: urodinamia / flujometría + urocultivo ampliado
 
-## Alergias conocidas
+### Otros síntomas relevantes
+- Sueño <5 h, despertar cansada, insomnio frecuente
+- Fatiga importante
+- Ansiedad + estrés
+- Cafe: 2 tazas/día (mañana + ~20:00) ← el café nocturno explica parte del insomnio
+- Digestión: hinchazón + gases + diarrea (posible disbiosis post-ertapenem + SIBO)
 
-_(completar antes de la consulta)_
+---
 
-- _______________________________________________
+## Medicación actual (confirmada 04/09/2026)
+
+| Fármaco | Dosis | Indicación |
+|---|---|---|
+| **Vitamina D** | 100.000 UI/mes (ampolla bebible) | Insuficiencia 25-OH |
+| **Vitamina C** | 1 pastilla efervescente/día | Antioxidante |
+| **Omeprazol** | 20 mg/día | Protección gástrica |
+| **Solifenacina** | 5 mg/día | Vejiga hiperactiva (anticolinérgico) |
+| **Multiflora** | 1 cap/día | Probiótico post-ATB |
+| **Factor AG 200 (CASASCO)** | PRN | Simeticona — ⚠️ DUPLICA con simeticona aparte |
+| **Simeticona** | PRN | Antiflatulento — ⚠️ DUPLICA con Factor AG |
+
+### ATB recientes (agosto 2026)
+- Ciprofloxacina → **NO funcionó**
+- **Ertapenem** → resolvió (carbapenémico, último recurso, sugiere germen BLEE)
+- Cobertura sintomática 10–14 días: ketorolac + fenazopiridina + omeprazol
+
+---
 
 ## Antecedentes relevantes
 
-- Infección urinaria resistente a antibiótico (agosto 2026) — razón del primer CT
-- _______________________________________________
-- _______________________________________________
+- Infección urinaria complicada agosto 2026 (cipro-R → ertapenem)
+- Quiste renal izquierdo 30→32 mm (Bosniak II → IIF)
+- Intolerancia a lactosa (diagnosticada)
+- Sensibilidad al gluten no celíaca
+- Sueño crónicamente corto (<5 h)
+- Ansiedad + estrés actuales
+- Sesión psicológica activa (próxima cita programada)
+
+---
+
+## Estudios pendientes sugeridos (PRIORIZADOS)
+
+### 🔴 Urgente
+- [ ] **Urodinamia / flujometría** (por residuo post-miccional + polaquiuria + chorro débil)
+- [ ] **Urocultivo ampliado** (gérmenes atípicos: Ureaplasma, Mycoplasma, Chlamydia) — ¿guardaron muestra del de agosto?
+- [ ] Repetir hemograma en 4–6 semanas (verificar plaquetas)
+- [ ] Ferritina sérica + perfil de hierro (causa trombocitosis)
+- [ ] 25-OH Vit D + PTH + Ca iónico (control a 3 meses de suplementación)
+- [ ] **MRI renal** para reclasificar Bosniak IIF vs II
+
+### 🟠 Importante
+- [ ] ApoB + Lp(a) — riesgo CV
+- [ ] tTG-IgA + IgA total — descarte celiaquía (ya redujo gluten por sensibilidad)
+- [ ] OGTT con insulinemia (0/30/60/90/120) — IR
+- [ ] Eco hepática + ALT/AST/GGT
+- [ ] LDL directo (confirmar el calculado)
+- [ ] eGFR calculado con creatinina
+- [ ] **Test de hidrógeno espirado (SIBO)** por diarrea + gases + omeprazol crónico
+
+### 🟢 Lifestyle (modificables por la paciente)
+- [ ] **Dejar el café de las 20:00** (probablemente la causa #1 del insomnio)
+- [ ] Elegir UN solo antiflatulento (Factor AG o simeticona, no ambos)
+
+---
+
+## Médicos tratantes
+
+| Especialidad | Nombre | Lugar |
+|---|---|---|
+| Clínico | Dr. Sachero Feliú | LA COSTA |
+| Radiólogo | Dr. Novais Peña, Jose María | LA COSTA |
+| Ecografía | Dr. Pablo Ibarrola Almirón (R.P. 18793) | Santa Julia |
+| Urólogo | (pendiente nombre) | — |
+| Infectólogo | (pendiente nombre) | — |
+| Psicólogo/a | (sesión próxima programada) | — |
+
+---
 
 ## Preguntas para esta consulta
 
-1. _______________________________________________
-2. _______________________________________________
-3. _______________________________________________
-4. _______________________________________________
-5. _______________________________________________
+1. ¿**Bosniak IIF o II**? ¿Vale la pena MRI renal?
+2. ¿Por qué **residuo post-miccional 22 cc**? ¿Sugiere urodinamia?
+3. ¿**Gérmenes atípicos** en el urocultivo de agosto? ¿Guardaron muestra?
+4. ¿La polaquiuria + disuria + chorro débil configuran patrón obstructivo vs hipoactivo vs hiperactivo?
+5. ¿**SIBO test** por diarrea + gases + omeprazol crónico?
+6. ¿Vit D en rango con la suplementación actual? ¿PTH?
+7. ¿**Plaquetas** bajaron o se mantienen en 575? (control 4–6 semanas)
+8. ¿**ApoB + Lp(a)** para estratificar riesgo CV real?
 
 ---
 
@@ -121,4 +191,4 @@ _(completar antes de la consulta)_
 
 ---
 
-*Generado el 28/08/2026 desde el repositorio gaby-lab-results. Datos crudos en `biomarkers/blood-work.csv`. NO incluye diagnóstico médico. Las decisiones clínicas las toma el médico tratante con el contexto completo.*
+*Generado el 04/09/2026 desde el repositorio gaby-lab-results. Datos crudos en `biomarkers/blood-work.csv` y `biomarkers/imaging.csv`. NO incluye diagnóstico médico. Las decisiones clínicas las toma el médico tratante con el contexto completo.*
